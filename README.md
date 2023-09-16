@@ -5,11 +5,11 @@ information about how a beginner can do system administration on their
 Raspberry Pi. 
 
 We will post solutions to In-Chapter Exercises, advisories, errata,
-and Python3, and Bash shell script code found in each book
+and Python3, and Bash shell script code found in Volume 1 of the series
 here on or about November 1, 2023. This is the expected release/publication date
-of the hardcover, paperback, and e-copy of of Volume 1.  We'll also provide links
+of the hardcover, paperback, and e-copy of that volume.  We'll also provide links
 to reference materials you can use to go beyond what we present in the
-books.
+book.
 
 Till then, keep checking back here for more information and content!
 
