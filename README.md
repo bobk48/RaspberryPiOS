@@ -4,6 +4,10 @@ In this three volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
+I've introduced a new repository, that's a fork of awesome-raspberry-pi,
+and contains a bunch of helpful links to Raspberry Pi information.
+Check it out, it's on my home page here!
+
 The publication date of the hardcover book has been updated to November 22, 2023.
 At that time, we will post solutions to In-Chapter Exercises, advisories, errata,
 and Python3, and Bash shell script code found in Volume 1 of the series. 
