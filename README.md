@@ -4,6 +4,8 @@ In this three volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
+Latst News
+
 Last week, the Raspberry Pi 5 release date of October 23 was made public.
 The Raspberry Pi OS for it will be based on Debian Bookworm, but in all
 probability this will not effect the content of the three volumes in our series
@@ -11,8 +13,9 @@ in a significant way. And when I can get ahold of a Pi 5, I will test out
 as much of the content of Volume 1, or whatever Volume has been printed and
 distributed by that time, and give updates here at this website. 
 The Raspberry Pi OS for the Pi 5 will have some bugs in it at first. I have been
-able to run Debian Bookworm on a Raspberry Pi from the unofficial release of
-that software, and ZFS is easily installed on it!
+able to run Debian Bookworm on a Raspberry Pi 400, from the unofficial release of
+that software, and ZFS is easily installed on it! So I have high hopes for the
+stable release of the Raspberry Pi OS that will be running on the Pi 5.
 
 I've introduced a new repository, that's a fork of awesome-raspberry-pi,
 and contains a bunch of helpful links to Raspberry Pi information.
