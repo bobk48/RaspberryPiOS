@@ -7,9 +7,10 @@ Raspberry Pi.
 Last week, the Raspberry Pi 5 release date of October 23 was made public.
 The Raspberry Pi OS for it will be based on Debian Bookworm, but in all
 probability this will not effect the content of the three volumes in our series
-in a significant way. And when I can get a hold of a Pi 5, I will test out
+in a significant way. And when I can get ahold of a Pi 5, I will test out
 as much of the content of Volume 1, or whatever Volume has been printed and
-distributed by that time, and give updates here at this website. I have been
+distributed by that time, and give updates here at this website. 
+The Raspberry Pi OS for the Pi 5 will have some bugs in it at first. I have been
 able to run Debian Bookworm on a Raspberry Pi from the unofficial release of
 that software, and ZFS is easily installed on it!
 
