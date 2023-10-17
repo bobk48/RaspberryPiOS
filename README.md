@@ -4,7 +4,11 @@ In this three volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
-Latst News as of 10/16/2023
+Latst News as of 10/17/2023
+
+With the Raspberry Pi OS Bookworm-version, ssh into LXD/LXC containers doesn't work
+as easily as shown in Volume 2. Perhaps that'll be ironed out in later versions of the
+Raspberry Pi OS for the Pi 5.
 
 The 64 bit Raspberry Pi OS for the Pi 5 is available now! And it can be installed on
 a Pi 4b, and Pi 400. I've used the Raspberry Pi Imager to download and install it to
