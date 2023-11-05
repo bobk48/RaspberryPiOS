@@ -6,9 +6,11 @@ Raspberry Pi.
 
 Latest News as of 11/5/2023
 
-I've uploaded the In-Chapter Exercise Solutons for the first volume. And contrary
-to what's stated in the book, the End-of_Chapter Solutions will only be available
-through your CRC/T&F representative if you're a certified adopter of the book.
+I've uploaded the In-Chapter Exercise Solutons, and code for the first volume. 
+It's in the folder Volume 1.
+
+The End-of-Chapter Solutions will only be available through your CRC/T&F
+representative if you're a certified adopter of the book.
 
 With the Raspberry Pi OS Bookworm-version, ssh into LXD/LXC containers doesn't work
 as easily as shown in Volume 3. Perhaps that'll be ironed out in later versions of the
