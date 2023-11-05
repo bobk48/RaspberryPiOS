@@ -4,7 +4,11 @@ In this three volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
-Latst News as of 10/17/2023
+Latest News as of 11/5/2023
+
+I've uploaded the In-Chapter Exercise Solutons for the first volume. And contrary
+to what's stated in the book, the End-of_Chapter Solutions will only be available
+through your CRC/T&F representative if you're a certified adopter of the book.
 
 With the Raspberry Pi OS Bookworm-version, ssh into LXD/LXC containers doesn't work
 as easily as shown in Volume 3. Perhaps that'll be ironed out in later versions of the
