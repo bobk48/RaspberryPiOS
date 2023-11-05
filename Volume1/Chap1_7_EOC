@@ -1,0 +1,44 @@
+#!/bin/bash
+if [ -d "/usr/bin" ] ; then
+    echo "/usr/bin is a directory"
+else
+    echo "/usr/bin is not a directory"
+fi
+
+#!/bin/bash
+echo "Enter input: \c"
+read line
+echo "You entered: $line"
+echo "Enter another line: \c"
+read word1 word2 word3
+echo "The first word is: $word1:"
+echo "The second word is: $word2:"
+echo "The rest of the line is: $word3:"
+exit 0
+
+#!/bin/bash
+echo "The command name is: $0."
+echo "The number of command line arguments passed as parameters is: $#."
+echo "The value of the command line arguments are: $1 $2 $3 $4 $5 $6 $7 $8 $9."
+echo "Another way to display values of all the arguments: $@."
+echo "Yet another way is: $*."
+exit 0
+
+#!/bin/tcsh
+if ( ( $#argv == 0 ) || ( $#argv > 1 ) ) then
+    echo "Usage: $0 ordinary_file"
+    exit 1
+endif
+if ( -f $1 ) then
+    set filename = $argv[1]
+    set fileinfo = 'ls -il $filename'
+    set inode = $fileinfo[1]
+    set size = $fileinfo[6]
+    echo "File Name:        $filename"
+    echo "Inode Number:     $inode"
+    echo "Size (bytes):     $size"
+    exit 0
+else
+    echo "$0: argument must be an ordinary file"
+    exit 1
+endif
