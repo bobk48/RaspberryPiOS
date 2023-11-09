@@ -4,10 +4,15 @@ In this three volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
-Latest News as of 11/5/2023
+Latest News as of 11/9/2023
+
+I received my examination copies of the 1st volume hardcover book today, 
+and it looks great! Although the shipping date was slated for 11/22, examination
+copies are available now for the hardcover edition. I suspect that general
+availablility of this volume will take until the end of November.
 
 I've uploaded the In-Chapter Exercise Solutons, and code for the first volume. 
-It's in the folder Volume 1.
+It's all in the folder Volume 1.
 
 The End-of-Chapter Solutions will only be available through your CRC/T&F
 representative if you're a certified adopter of the book.
@@ -17,9 +22,9 @@ as easily as shown in Volume 3. Perhaps that'll be ironed out in later versions 
 Raspberry Pi OS for the Pi 5.
 
 The 64 bit Raspberry Pi OS for the Pi 5 is available now! And it can be installed on
-a Pi 4b, and Pi 400. I've used the Raspberry Pi Imager to download and install it to
-a microSD card, and it boots and works great on my Pi 4b & Pi400. As I suspected,
-ZFS is easily installed on it! So in Volume 2, there's no need to use Ubuntu 23.04
+a Pi 3 & 4b, and Pi 400. I've used the Raspberry Pi Imager to download and install it to
+a microSD card, and it boots and works great on my Pi 3, 4b, and Pi400. As I suspected,
+ZFS is easily installed on it! So in upcoming Volume 2, there's no need to use Ubuntu 23.04
 to install ZFS on, to do the various tutorial operations in ZFS shown in that volume
 with Ubuntu- you can now reliably, and easily install ZFS on the Bookworm-version
 of the Raspberry Pi OS, and use it on your Pi 4 or Pi400!
