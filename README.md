@@ -7,8 +7,11 @@ Raspberry Pi.
 Latest News as of 11/16/2023
 
 Here are the publisher's links to the first two volumes of the series-
+
 http://www.routledge.com/9781032596341
+
 http://www.routledge.com/9781032596884
+
 As more volumes are published, I will make links to the publisher's website
 for them available.
 
