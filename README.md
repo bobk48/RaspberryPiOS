@@ -4,7 +4,13 @@ In this three volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
-Latest News as of 11/9/2023
+Latest News as of 11/16/2023
+
+Here are the publisher's links to the first two volumes of the series-
+http://www.routledge.com/9781032596341
+http://www.routledge.com/9781032596884
+As more volumes are published, I will make links to the publisher's website
+for them available.
 
 I received my examination copies of the 1st volume hardcover book today, 
 and it looks great! Although the shipping date was slated for 11/22, examination
