@@ -4,7 +4,12 @@ In this three volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
-Latest News as of 11/16/2023
+Latest News as of 12/3/2023
+
+I've added the In-Chapter Exercise solutions for Volume 2 today,
+along with the Python code for Chapter 2 of that volume. This is in
+anticipation of the availability of the printed version on December 24.
+Merry Christmas!
 
 Here are the publisher's links to the first two volumes of the series-
 
