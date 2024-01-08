@@ -4,16 +4,23 @@ In this now four volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
-Latest News as of 12/9/2023
+Latest News as of 1/8/2024
 
-If you're running the Raspberry Pi OS based on Debian Bookworm, and want
-to switch from the Wayland/Wayfire backend (which IMHO is buggy right now)
+Happy New Year! I'm happy to announce that the second volume of this book
+has been published by Routledge/T&F. In it you'll find more system administration
+tips and tricks for the beginner, plus an extensive tutorial on Python, all
+using the Debian Bookworm version of the Raspberry Pi OS.
+
+Incidentally, if you're running the Raspberry Pi OS based on Debian Bookworm, 
+and want to switch from the Wayland/Wayfire backend (which IMHO is buggy right now)
 then you can use the sudo raspi-config command, choice 6 Advanced Options, A6
 Wayland to achieve the switch to X11. I've found that GUI to be bugless.
 
 Also, the commands we show in The Raspberry Pi OS based on Debian Bullseye
 to execute an HTTP server in Python have changed in Debian Bookworm to- 
+
 python3 -m http.server 8080
+
 Python3 is the default on the Raspberry Pi OS based on Debian Bookworm.
 
 I've added the In-Chapter Exercise solutions for Volume 2,
