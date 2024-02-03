@@ -8,6 +8,8 @@ Latest News as of 2/3/2024
 
 In anticipation of the printed book release for Volume 3, I've uploaded the
 In-Chapter Exercise solutions for Chapters 1 through 3 of that volume.
+Note that the Chapter 0 In-Chapter Exercise solutions for this volume can
+be found in the Volume 2 folder.
 
 Happy New Year! I'm happy to announce that the second volume of this book
 has been published by Routledge/T&F. In it you'll find more system administration
