@@ -4,15 +4,17 @@ In this now four volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
-Latest News as of 2/29/2024
+Latest News as of 3/1/2024
 
-I've updated the Chapter 0 In-Chapter Exercise solutions for Volumes 2 and 3
+I've updated the Chapter 0 In-Chapter Exercise solutions for Volumes 1,2, and 3
 to include fuller answers to some of the exercises. Additionally, I updated
 the fork of awesome-raspberry-pi to include the latest commits to that 
-helpful repo.
+helpful repo. Check it out!
 
 In anticipation of the printed book release for Volume 3, I've uploaded the
-In-Chapter Exercise solutions for Chapters 1 through 3 of that volume.
+In-Chapter Exercise solutions for that volume.
+
+Old News
 
 Happy New Year! I'm happy to announce that the second volume of this book
 has been published by Routledge/T&F. In it you'll find more system administration
