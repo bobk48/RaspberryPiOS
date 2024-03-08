@@ -4,7 +4,12 @@ In this now four volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
-Latest News as of 3/1/2024
+Latest News as of 3/8/2024
+
+I'm proud to announce that Volume 3 of this series, entitled
+"Raspberry Pi OS Text Editors, Git, and LXC" will be available on
+May 2, 2024. The book's website at Routledge is-
+http://www.routledge.com/9781032596914
 
 I've updated the Chapter 0 In-Chapter Exercise solutions for Volumes 1,2, and 3
 to include fuller answers to some of the exercises. Additionally, I updated
