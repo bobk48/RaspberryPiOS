@@ -4,14 +4,19 @@ In this now four volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
-Latest News as of 3/13/2024
+Latest News as of 3/14/2024
 
-As of 3/13/2024, installing ZFS under the Bookworm kernel version 6.6.20 does
-not work! Previously, under Bookworm kernel version 6.1.0, the instructions 
-given in the upcoming Volume 4 of this series worked perfectly. So by the time
-Volume 4 is available (currectly schedule for early July of 2024) 
-this may, or may not have been ironed out. Stay tuned for further developments
-in the world of ZFS on the Raspberry Pi OS!
+As of 3/14/2024 installing ZFS on Bookworm kernel version 6.6.20 does not work! 
+Previously, under Bookworm kernel version 6.1.0, the instructions 
+given in the upcoming Volume 4 of this series work perfectly! So to get ZFS
+to install on your Raspberry Pi OS, you should download and install the following
+version that has the 6.1.0 kernel-
+raspio_arm64-2023-12-06 
+from https://downloads.raspberrypi.org/raspios_arm64/images
+
+Then follow the instructions at-
+https://www.cyberciti.biz/faq/installing-zfs-on-debian-12-bookworm-linux-apt-get/
+remembering to switch the linux-headers-amd64 to linux-headers-arm64
 
 I'm proud to announce that Volume 3 of this series, entitled
 "Raspberry Pi OS Text Editors, Git, and LXC" will be available on
