@@ -8,6 +8,7 @@ Latest News as of 4/4/2024
 
 It is now possible to install ZFS on Bookworm kernel version 6.6.20! 
 Follow these instructions:
+
 First, with nano as sudo, add the following line to /etc/apt/sources.list
 
 deb http://deb.debian.org/debian bookworm-backports main contrib
@@ -21,6 +22,7 @@ sudo apt install zfs-dkms/bookworm-backports zfsutils-linux/bookworm-backports
 These commands bring you back to the 6.1.X kernel.
 
 Old News
+
 I'm proud to announce that Volume 3 of this series, entitled
 "Raspberry Pi OS Text Editors, Git, and LXC" will be available on
 May 2, 2024. The book's website at Routledge is-
