@@ -13,7 +13,9 @@ First, with nano as sudo, add the following line to /etc/apt/sources.list
 deb http://deb.debian.org/debian bookworm-backports main contrib
 
 Then, run the following two commands-
+
 sudo apt update
+
 sudo apt install zfs-dkms/bookworm-backports zfsutils-linux/bookworm-backports
 
 These commands bring you back to the 6.1.X kernel.
