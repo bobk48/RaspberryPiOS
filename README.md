@@ -19,7 +19,9 @@ sudo apt update
 
 sudo apt install zfs-dkms/bookworm-backports zfsutils-linux/bookworm-backports
 
-The above commands, as of this date, bring you to the 6.6.20 kernel.
+The above commands, as of this date, allow you to the install ZFS on
+
+the Raspberry Pi OS with the 6.6.20 kernel.
 
 Old News
 
