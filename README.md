@@ -4,7 +4,7 @@ In this now four volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
-Latest News as of 4/5/2024
+Latest News as of 4/9/2024
 
 It is now possible to install ZFS on Bookworm kernel version 6.6.20! 
 Follow these instructions:
@@ -13,13 +13,15 @@ First, with nano as sudo, add the following line to /etc/apt/sources.list
 
 deb http://deb.debian.org/debian bookworm-backports main contrib
 
-Then, run the following two commands-
+Then, run the following three commands-
 
 sudo apt update
 
+sudo apt upgrade
+
 sudo apt install zfs-dkms/bookworm-backports zfsutils-linux/bookworm-backports
 
-The above commands, as of this date, allow you to the install ZFS on
+The above commands, as of this date, allow you to the install , and use ZFS on
 
 the Raspberry Pi OS with the 6.6.20 kernel.
 
