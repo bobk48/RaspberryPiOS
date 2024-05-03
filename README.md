@@ -4,9 +4,13 @@ In this now four volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
-Latest News as of 4/9/2024
+Latest News as of 5/3/2024
 
-It is now possible to install ZFS on Bookworm kernel version 6.6.20! 
+I'm happy to announce that the 4th volume of this series is now being printed,
+and will be available on or about July 3rd. It covers a bunch of ancillary topics,
+most prominent of which is the Zettabyte File System(ZFS).
+
+It is possible to install ZFS on Bookworm kernel version 6.6.20! 
 Follow these instructions:
 
 First, with nano as sudo, add the following line to /etc/apt/sources.list
