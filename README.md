@@ -4,7 +4,9 @@ In this now four volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
-Latest News as of 5/3/2024
+Latest News as of 6/16/2024
+
+The In-Chapter Exercise Solutions (ICE) are now available for Volume 4.
 
 I'm happy to announce that the 4th volume of this series is now being printed,
 and will be available on or about July 3rd. It covers a bunch of ancillary topics,
