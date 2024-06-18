@@ -6,7 +6,7 @@ Raspberry Pi.
 
 Latest News as of 6/16/2024
 
-The In-Chapter Exercise Solutions (ICE) are now available for Volume 4.
+The In-Chapter Exercise Solutions (ICE Solutions) are now available for Volume 4.
 
 I'm happy to announce that the 4th volume of this series is now being printed,
 and will be available on or about July 3rd. It covers a bunch of ancillary topics,
@@ -31,7 +31,7 @@ The above commands, as of this date, allow you to install , and use ZFS on
 
 the Raspberry Pi OS with the 6.6.20 kernel. Volume 4 contains an entire chapter
 
-on ZFS, and the above instructions allow to work with that chapter.
+on ZFS, and the above instructions allow you to work with that chapter.
 
 Old News
 
