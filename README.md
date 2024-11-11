@@ -4,7 +4,11 @@ In this now four volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
-Latest News as of 6/16/2024
+Latest News as of 11/11/2024
+
+The Raspberry Pi OS has been updated so that you can try Waylandd LabWC as a 
+window compositor. Try it, and if you have trouble, switch back to X using the
+instructions below.
 
 The In-Chapter Exercise Solutions (ICE Solutions) are now available for Volume 4.
 
