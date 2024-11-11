@@ -6,7 +6,7 @@ Raspberry Pi.
 
 Latest News as of 11/11/2024
 
-The Raspberry Pi OS has been updated so that you can try Waylandd LabWC as a 
+The Raspberry Pi OS has been updated so that you can try Wayland LabWC as a 
 window compositor. Try it, and if you have trouble, switch back to X using the
 instructions below.
 
