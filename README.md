@@ -14,7 +14,10 @@ The In-Chapter Exercise Solutions (ICE Solutions) are now available for Volume 4
 
 I'm happy to announce that the 4th volume of this series is now being printed,
 and will be available on or about July 3rd. It covers a bunch of ancillary topics,
-most prominent of which is the Zettabyte File System(ZFS).
+most prominent of which is the Zettabyte File System(ZFS). Following is a link to
+the publishers page for the 4th volume-
+
+https://www.routledge.com/9781032752969
 
 It is possible to install ZFS on Bookworm kernel version 6.6.20! 
 Follow these instructions:
