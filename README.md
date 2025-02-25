@@ -4,7 +4,16 @@ In this now four volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
-Latest News as of 11/11/2024
+Latest News as of 2/25/2025
+
+As of the above date, the following is true, and has been since the release of the Raspberry Pi 5:
+Raspberry Pi OS is designed to be compatible across various Raspberry Pi models, including the Raspberry Pi 400 and the Raspberry Pi 5. The core operating system remains consistent; however, it dynamically adjusts its configuration during boot to optimize performance based on the specific hardware it's running on. This means that while the OS itself doesn't differ between models, it tailors its operation to leverage the unique features and capabilities of each device. 
+
+The Raspberry Pi 5 introduces significant hardware advancements over the Raspberry Pi 400, such as a more powerful CPU, enhanced GPU, faster RAM, and improved I/O capabilities. To fully utilize these enhancements, it's essential to keep the system updated. Regularly updating Raspberry Pi OS ensures that you have the latest drivers and optimizations, enabling the OS to effectively harness the improved hardware features of the Raspberry Pi 5.
+
+In summary, while the base Raspberry Pi OS remains the same across both the Raspberry Pi 400 and the Raspberry Pi 5, the OS adapts its configuration to match the hardware it's operating on. Keeping the system updated is crucial to take full advantage of the hardware improvements offered by newer models like the Raspberry Pi 5.
+
+As of 11/24/2024
 
 The Raspberry Pi OS has been updated so that you can try Wayland LabWC as a 
 window compositor. Try it, and if you have trouble, switch back to X using the
