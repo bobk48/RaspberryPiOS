@@ -4,9 +4,11 @@ In this now four volume series of books, you'll find a lot of useful
 information about how a beginner can do system administration on their
 Raspberry Pi. 
 
-Latest News as of 2/25/2025
+Latest News as of 3/3/2025
 
-As of the above date, the following is true, and has been since the release of the Raspberry Pi 5:
+I've started to add errata pages to each of the four volumes.
+
+As of 2/25/2025, the following is true, and has been since the release of the Raspberry Pi 5:
 Raspberry Pi OS is designed to be compatible across various Raspberry Pi models, including the Raspberry Pi 400 and the Raspberry Pi 5. The core operating system remains consistent; however, it dynamically adjusts its configuration during boot to optimize performance based on the specific hardware it's running on. This means that while the OS itself doesn't differ between models, it tailors its operation to leverage the unique features and capabilities of each device. 
 
 The Raspberry Pi 5 introduces significant hardware advancements over the Raspberry Pi 400, such as a more powerful CPU, enhanced GPU, faster RAM, and improved I/O capabilities. To fully utilize these enhancements, it's essential to keep the system updated. Regularly updating Raspberry Pi OS ensures that you have the latest drivers and optimizations, enabling the OS to effectively harness the improved hardware features of the Raspberry Pi 5.
