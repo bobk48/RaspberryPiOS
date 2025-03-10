@@ -1,2 +1,5 @@
 1) On page 105, in steps 5. and 8., the word "system" should not be at the end of the coomands.
-Last edited 3/3/2025
+2) On page 195, in Step 0., the command to change the current working directory should be
+os.chdir("/home/bob/Public")
+
+Last edited 3/10/2025
