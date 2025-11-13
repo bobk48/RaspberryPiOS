@@ -1,0 +1,2 @@
+my_program: main.cpp input_module.cpp output_module.cpp
+	g++ -o my_program main.cpp input_module.cpp output_module.cpp
